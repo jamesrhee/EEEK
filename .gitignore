@@ -1,0 +1,14 @@
+$ cat .gitignore
+bin/**/*
+/bin
+/dist
+/temp.json
+/teams
+error_*
+/logs
+Thumbs.db
+/doc
+.settings\*
+.settings
+.metadata
+*.prefs
